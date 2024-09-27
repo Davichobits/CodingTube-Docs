@@ -62,3 +62,8 @@ const Set<int>numeros = {1, 2, 3, 4};
 numeros.add(5);  // esto causará un error
 ```
 
+## Explicación en video
+
+A continuación te dejo un video explicando como crear sets en Dart.
+
+<iframe width="100%" height="444" src="https://www.youtube.com/embed/QjxX7mzYkZY?si=LiRTloIngbuQ40_h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
