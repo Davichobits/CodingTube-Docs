@@ -80,7 +80,7 @@ Fíjate que ahora hay una nueva palabra reservada `else` (significa "caso contra
 
 ## El condicional `else if`
 
-Puede darse el caso de que quieres hacer una nueva condición en caso de que la primera no se cumple. Puedes usar un nuevo `if` o lo que se hace comunmente es utilizar el condicional `else if`. De la siguiente forma:
+Puede darse el caso de que quieres hacer una nueva condición en caso de que la primera no se cumple. Puedes usar un nuevo `if` o lo que se hace comúnmente es utilizar el condicional `else if`. De la siguiente forma:
 
 ```dart
   if (condición1) {
@@ -125,7 +125,7 @@ Es hora de poner en práctica lo que has aprendido en este post. A continuación
     void main() {
 
       // Puedes cambiar este valor por "rojo", "amarillo", o cualquier otro para probar
-      String colorSemaforo = "verde"; 
+      final String colorSemaforo = "verde"; 
 
       // tu código va aquí
 
@@ -134,11 +134,15 @@ Es hora de poner en práctica lo que has aprendido en este post. A continuación
   </TabItem>
   <TabItem value="answer" label="Respuesta">
     
-    Gracias por haberlo intentato primero antes de ver la solución. Si no lo hiciste así, cambia de pestaña e inténtalo tu primero 🤭 
+    Gracias por haberlo intentado primero antes de ver la solución. Si no lo hiciste así, cambia de pestaña e inténtalo tu primero 🤭 
+
+    :::note[nota]
+    Recuerda que no hay una solución única. Toma la siguiente solución como una sugerencia de cómo se pudo hacer resuelto el ejercicio.
+    :::
 
     ```dart
     void main() {
-      String colorSemaforo = "verde";
+      final String colorSemaforo = "verde";
 
       if (colorSemaforo == "rojo") {
         print("Debes detenerte");
