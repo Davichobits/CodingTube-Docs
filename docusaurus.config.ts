@@ -108,7 +108,7 @@ const config: Config = {
           label: 'Docs',
         },
         // {to: '/portfolio', label: 'Portafolio', position: 'left'},
-        // {to: '/blog', label: 'Blog sobre gamedev', position: 'left'},
+        { to: '/blog', label: 'Blog', position: 'left' },
         {
           href: 'https://www.youtube.com/CodingTube',
           label: 'YouTube',
