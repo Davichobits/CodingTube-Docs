@@ -1,6 +1,6 @@
 ---
 slug: animacion-en-scroll-usando-3-lineas-css
-title: 🍡 Animación en Scroll usando 3 líneas CSS
+title: Animación en Scroll usando 3 líneas CSS 🍡
 authors:
   name: David Ruiz
   title: Software Developer
