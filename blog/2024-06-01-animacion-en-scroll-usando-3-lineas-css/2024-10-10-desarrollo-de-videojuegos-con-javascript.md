@@ -9,7 +9,7 @@ authors:
 tags: [web, css]
 ---
 
-![Beach](./portada.png)
+![Beach](./portada.webp)
 
 <!--truncate-->
 
