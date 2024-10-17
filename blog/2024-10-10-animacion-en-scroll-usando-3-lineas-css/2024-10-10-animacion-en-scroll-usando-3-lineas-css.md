@@ -1,6 +1,6 @@
 ---
 slug: animacion-en-scroll-usando-3-lineas-css
-title: Animación en Scroll usando 3 líneas CSS 🍡
+title: Animación en Scroll 🍡
 authors:
   name: David Ruiz
   title: Software Developer
@@ -10,6 +10,9 @@ tags: [web, css]
 ---
 
 ![Beach](./portada.webp)
+
+
+En este artículo te enseñaré a crear un animación en scroll usando únicamente 3 lineas CSS, sin la necesidad de usar librarías o Javascript.
 
 <!--truncate-->
 
@@ -135,3 +138,9 @@ Las tres líneas de código que hacen la magia son las siguientes:
 - `animation: show linear` ejecuta la animación `show` de forma lineal.
 - `animation-timeline: view()` se encarga de que la animación se ejecute cuando el bloque se muestra en pantalla.
 - `animation-range: entry 0%` establece el punto de entrada de la animación.
+
+## Explicación en video
+
+¿Deseas ver esta explicación a detalle en video? Te lo dejo a continuación:
+
+<iframe width="100%" height="444" src="https://www.youtube.com/embed/_RnAjHBe-Io?si=xMa1vQvjir0F1jRT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
