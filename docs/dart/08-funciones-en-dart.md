@@ -86,3 +86,9 @@ void main() {
 }
 
 ```
+
+## Explicación en video:
+
+A continuación te dejo un video donde te explico como utilizar funciones en Dart:
+
+<iframe width="100%" height="444" src="https://www.youtube.com/embed/3f_klrMPLFc?si=skRI56l1TyjEgDL9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
