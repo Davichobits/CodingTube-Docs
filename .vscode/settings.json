@@ -1,5 +1,11 @@
 {
   "cSpell.language": "en,es-ES",
   "cSpell.enabled": true,
-  "cSpell.words": ["inicializarlo", "milisegundos", "renderizado"]
+  "cSpell.words": [
+    "inicializarlo",
+    "milisegundos",
+    "pseudoelemento",
+    "pseudoelementos",
+    "renderizado"
+  ]
 }

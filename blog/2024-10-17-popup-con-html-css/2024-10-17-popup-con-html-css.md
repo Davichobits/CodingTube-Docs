@@ -92,3 +92,9 @@ Lo siguiente es opcional, solamente para dar un poco de estilo y animaciones:
 :::tip[Tip]
 Si quieres profundizar en animaciones con CSS te recomiendo este video de [aquí](https://www.youtube.com/watch?v=bqQscQXxIls&list=PLJubkp8BnTJt1u6z_voRiYtwskmP0VVzw&index=11)
 :::
+
+## Explicación en video:
+
+A continuación podrás ver toda esta explicación en video.
+
+<iframe width="100%" height="444" src="https://www.youtube.com/embed/tzT1ogxT4ZQ?si=rtPwEWP0v-Bb4If9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
