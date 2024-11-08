@@ -56,3 +56,9 @@ void main(){
   }
 }
 ```
+
+## Explicación en video:
+
+A continuación te dejo un video donde te explico como utilizar el ciclo `for`:
+
+<iframe width="100%" height="444" src="https://www.youtube.com/embed/8Y7HZOpllXs?si=TBZfng3W8ZOd_bRa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
