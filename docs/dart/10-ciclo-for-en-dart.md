@@ -4,11 +4,12 @@ sidebar_position: 10
 
 # Ciclo `for` en Dart ♻️
 
-Un concepto muy importante en programación son los ciclos repetitivos. Muchas de las veces necesitamos que nuestros programas realicen tareas repetitivas y ahí es cuando entran en acción estos ciclos.
+Un concepto muy importante en programación son los ciclos repetitivos. Muchas de las veces necesitamos que nuestros programas realicen tareas una y otra vez hasta que cierta condición se cumpla y ahí es cuando entran en acción estos ciclos.
 
 Dentro de los ciclos repetitivos podemos encontrar:
+- El ciclo [`while`](https://codingtube.dev/docs/dart/ciclo-while-y-do-while-en-dart).
+- El ciclo [`do while`](https://codingtube.dev/docs/dart/ciclo-while-y-do-while-en-dart).
 - El ciclo `for`.
-- El ciclo `while`.
 
 ## Estructura de un ciclo `for`
 
