@@ -66,15 +66,15 @@ const FeatureList: FeatureItem[] = [
       </>
     ),
   },
-  {
-    title: "Phaser",
-    urlImg: require("@site/static/img/phaser.png").default,
-    // link: "https://www.youtube.com/CodingTube",
-    linkDoc: "/docs/category/phaser",
-    description: (
-      <>Framework Open Source de JavaScript para crear videojuegos HTML5.</>
-    ),
-  },
+  // {
+  //   title: "Phaser",
+  //   urlImg: require("@site/static/img/phaser.png").default,
+  //   // link: "https://www.youtube.com/CodingTube",
+  //   linkDoc: "/docs/category/phaser",
+  //   description: (
+  //     <>Framework Open Source de JavaScript para crear videojuegos HTML5.</>
+  //   ),
+  // },
   {
     title: "Dart",
     urlImg: require("@site/static/img/dart.png").default,
