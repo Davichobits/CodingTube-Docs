@@ -156,3 +156,9 @@ Como pudiste ver, en este artículo hemos aprendido que:
   - Mapas
 - En mapas es necesario especificar la variable con la clase `MapEntry`
 - Y si necesitas un ciclo repetitivo no solamente en iterables entonces ahí sí se recomienda el ciclo `for`. 
+
+## Explicación en video
+
+A continuación te dejo un video donde te explico como utilizar el ciclo `for in`:
+
+<iframe width="100%" height="444" src="https://www.youtube.com/embed/ZjaGuzQgYPQ?si=y_o4bMLbM4QqtlDG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
