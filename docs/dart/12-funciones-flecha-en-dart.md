@@ -72,3 +72,9 @@ Entonces para recapitular, podríamos decir que:
 - Una función flecha es aquella que se puede reducir a una sola línea de código. Sin reducir su comprensión.
 - Para crear una función flecha es necesario el operador `=>` (igual, mayor que).
 - El operador `=>` reemplaza a las llaves y a la palabra `return` de una función normal.
+
+## Explicación en video:
+
+A continuación te dejo un video donde te explico como utilizar funciones flecha en Dart:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0DOrbal4A2Y?si=YCexOuQ0-78aZfOO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

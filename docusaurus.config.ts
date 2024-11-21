@@ -175,7 +175,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} CodingTube. - Programado con ❤️ por <a target="_blank" href="https://www.linkedin.com/in/davidirc/" >David Ruiz.</a>`,
+      copyright: `Copyright © ${new Date().getFullYear()} CodingTube. - Desarrollado con ❤️ por <a target="_blank" href="https://www.linkedin.com/in/davidirc/" >David Ruiz.</a>`,
     },
     prism: {
       theme: prismThemes.github,
