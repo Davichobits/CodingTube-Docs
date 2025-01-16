@@ -10,9 +10,14 @@ You can view the live site here: [codingtube.dev](https://www.youtube.com/Coding
 
 ## Website
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+The main technologies used in this project are:
 
-### Installation
+- Markdown
+- React
+- TypeScript
+- Docusaurus
+
+## Installation
 
 ```
 $ npm install
